@@ -17,9 +17,9 @@ import json
 import requests
 
 MINIMUM = 1
-MAXIMUM = 10
-TARGET = 7
-MAX_GUESSES = 20
+MAXIMUM = 50
+TARGET = 14
+MAX_GUESSES = 30
 QUESTIONER = 'easy-questioner'
 
 
